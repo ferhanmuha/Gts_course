@@ -10,7 +10,6 @@ Types of desktop enviroment
 2 gnome 
 3 KDE plasma 
 4XFCE 
-
 Why we used Linux 
 1 most used 
 2that have most hacking tool 
