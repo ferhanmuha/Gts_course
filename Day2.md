@@ -1,4 +1,4 @@
-Introduction to Linux 
+ # Introduction to Linux 
 1 Linux is a Kernel
 what is Kernel ? Kernel is a code/program that used to meet software and hardware 
 2 History of linux 
